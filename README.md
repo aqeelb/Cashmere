@@ -10,5 +10,12 @@ This theme will definetly make your eyes happy, if you have Monaco Bold font ins
 ## Credits
 - https://github.com/vjpr for the super awesome Monco Bold <3
 
-##License
+## How to use
+- Download the cashmere.jar file
+- Go to file -> Import Settings
+
+## License
 MIT
+
+## Compatiblity
+- Should be compatible with all IntelliJ IDEA based IDEs
