@@ -9,3 +9,6 @@ This theme will definetly make your eyes happy, if you have Monaco Bold font ins
 
 ## Credits
 - https://github.com/vjpr for the super awesome Monco Bold <3
+
+##License
+MIT
